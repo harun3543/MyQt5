@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-2d8fd77e066fff80f930.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "002_LoginScreen",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "002_LoginScreen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-002_LoginScreen-Debug-c170ea2cd5dd420c46b8.json",
+					"name" : "002_LoginScreen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "002_LoginScreen_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-002_LoginScreen_autogen-Debug-c38bcbdab92ff34ea1b5.json",
+					"name" : "002_LoginScreen_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "002_LoginScreen_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-002_LoginScreen_autogen_timestamp_deps-Debug-d23e6e75b22b6b5a98e2.json",
+					"name" : "002_LoginScreen_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Harun/My Projects/MyQt5/example/build-002_LoginScreen-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug",
+		"source" : "D:/Harun/My Projects/MyQt5/example/002_LoginScreen"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
